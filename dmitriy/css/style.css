@@ -218,3 +218,9 @@ a:active, a:visited, a:focus {
 	margin: 3rem 0 2rem;
 	display: inline-block;
 }
+
+@media (max-width: :390px) {
+	.main-overlay {
+	 height: 103%;
+  }
+}
