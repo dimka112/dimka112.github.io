@@ -219,7 +219,7 @@ a:active, a:visited, a:focus {
 	display: inline-block;
 }
 
-@media (max-width: :390px) {
+@media (max-width: :392px) {
 	.main-overlay {
 	 height: 103%;
   }
