@@ -1,0 +1,49 @@
+body{
+    background: #c7b39b url(console-hi-tech-playstation-4-pro-playstation-ps4-pro-techno.jpg);
+    margin: 15 px;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;
+}
+
+header ul li a {
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    float: left;
+}
+header ul li{
+    list-style-type: none;
+}
+
+header {
+    width: 100%;
+    float: left;
+}
+
+.content, .container {
+    clear: both;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#registration {
+    width: 300px;
+    margin: auto;
+    border: 1px solid;
+    padding: 15px;
+    
+}
+
+#registration input {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+form#autoregistration {
+    float: right;
+}
