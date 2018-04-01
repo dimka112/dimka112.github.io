@@ -1240,6 +1240,18 @@ li {
         width: initial;
         margin: 0 -38px;
     }
+   
+    .welcome .quote:after {
+  
+     right: 8px;
+
+    }
+
+    .welcome .quote:before {
+
+    left: 8px;
+    
+    }
 
     .facts .fact-item {
         margin-bottom: 20px;
