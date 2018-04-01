@@ -1238,6 +1238,7 @@ li {
 
     .welcome .quote {
         width: initial;
+        margin: 0 -38px;
     }
 
     .facts .fact-item {
