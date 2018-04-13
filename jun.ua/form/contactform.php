@@ -1,7 +1,7 @@
 <?php
-$EmailFrom = "contact@yourmail.com";
-$EmailTo = "contact@yourmail.com";
-$Subject = "New Message from Blvck Template";
+$EmailFrom = "dima.dinamit.dima@gmail.com";
+$EmailTo = "dima.dinamit.dima@gmail.com";
+$Subject = "ѕришло новое сообщение с моего сайта";
 $Name = Trim(stripslashes($_POST['InputName'])); 
 $Phone = Trim(stripslashes($_POST['InputPhone'])); 
 $Email = Trim(stripslashes($_POST['InputEmail']));
